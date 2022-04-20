@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ln2W1BeO59z+Xv0gh2Z5on8jh99BO8IR/nd2i/TMbpudBCI7+MDACGLKmKAO7tg/0L34uShKXEjM6gL/Edp4Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

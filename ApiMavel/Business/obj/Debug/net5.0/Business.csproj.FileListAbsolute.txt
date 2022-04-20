@@ -1,0 +1,15 @@
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\bin\Debug\net5.0\Model.dll
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\bin\Debug\net5.0\Model.pdb
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Allan\Google Drive\PROJETOS\TesteVagaFullStack\ApiMavel\Business\obj\Debug\net5.0\Business.pdb

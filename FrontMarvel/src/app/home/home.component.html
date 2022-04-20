@@ -1,0 +1,28 @@
+<section class="container">
+  <form class="formulario">
+    <h2 class="formulario__titulo">Personagens</h2>
+
+    <div class="form-field">
+      <label class="form-field__label" for="valor">Buscar Personagem</label>
+      <input class="form-field__input" id="valor" type="text" name="valor" [(ngModel)]="person.nome"/>
+      <button class="botao" type="submit" (click)="buscarPersonagens()">Buscar</button>
+      <button class="botao" id="botao2" type="submit" (click)="recarregar()">Recarregar</button>
+    </div>
+  </form>
+</section>
+
+<section class="eventos">
+  <div id="personagem" *ngFor="let person of personagens">
+    <img src="{{ person.urlImage }}" alt="imagemPersonagem" />
+    <h1>{{ person.nome }}</h1>
+    <p>{{ person.descricao }}</p>
+    <br />
+    <div class="eventos">
+      <h2>Eventos <span>Ver Todos...</span></h2>
+      <div id="todosEventos" *ngFor="let event of person.eventos">
+        <h1>{{ event.titulo }}</h1>
+        <p>{{ event.descricao }}</p>
+      </div>
+    </div>
+  </div>
+</section>

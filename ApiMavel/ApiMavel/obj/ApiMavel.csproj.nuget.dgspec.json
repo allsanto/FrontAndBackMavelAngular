@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\ApiMavel\\ApiMavel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\ApiMavel\\ApiMavel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\ApiMavel\\ApiMavel.csproj",
+        "projectName": "ApiMavel",
+        "projectPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\ApiMavel\\ApiMavel.csproj",
+        "packagesPath": "C:\\Users\\Allan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\ApiMavel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Allan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Business\\Business.csproj"
+              },
+              "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Allan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Allan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Allan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\TesteVagaFullStack\\ApiMavel\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Allan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
